@@ -18,7 +18,7 @@
 
 ​		运行``Client``，根据输出提示创建昵称，随后即可开始聊天。
 
-<img src="[/Users/vera/Library/Application Support/typora-user-images/image-20220702234513280.png](https://github.com/VeraMayLin/Socket_ChattingRoom/blob/main/images/0_init.jpg)" alt="image-20220702234513280" style="zoom:50%;" />
+<img src="https://github.com/VeraMayLin/Socket_ChattingRoom/blob/main/images/0_init.jpg" alt="image-20220702234513280" style="zoom:50%;" />
 
 ​	各客户端之间相互独立，线程安全，支持多个客户端并发执行。服务器端可实时显示在线人数：
 
