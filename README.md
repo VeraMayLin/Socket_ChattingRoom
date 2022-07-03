@@ -104,4 +104,4 @@ Suzy窗口下的接收提示如下图：
 
 文件出现在Suzy的桌面，传输成功：
 
-<img src="https://github.com/VeraMayLin/Socket_ChattingRoom/blob/main/images/15.png" alt="image-20220703004846628" style="zoom:67%;" />
+<img src="https://github.com/VeraMayLin/Socket_ChattingRoom/blob/main/images/15.jpg" alt="image-20220703004846628" style="zoom:67%;" />
